@@ -25,7 +25,7 @@ a:hover {
 	background-color: transparent;
 }
 .container { 
-	width: 920px;
+	max-width: 920px;
 	height: 550px;
 	margin: auto;
 	display: flex;
